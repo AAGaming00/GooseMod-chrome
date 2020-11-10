@@ -6,5 +6,5 @@ chrome.webRequest.onHeadersReceived.addListener((h) => {
 	})
 	return {responseHeaders: h.responseHeaders}
 }, {urls: ["*://*.discord.com/*"]},
-['blocking', 'responseHeaders', 'extraHeaders']
+['blocking', 'responseHeaders']
 )
