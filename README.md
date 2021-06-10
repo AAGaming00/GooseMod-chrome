@@ -21,7 +21,7 @@ These are all the ones i know
 
 ## GooseMod Chrome Install
 
-**1.**
+# **1.**
 
 First Thing To Do is to Download the Zip
 
@@ -29,12 +29,10 @@ First Thing To Do is to Download the Zip
 
 [AAGaming00's Repo](https://api.github.com/repos/AAGaming00/GooseMod-chrome/zipball/master)
 
-**2.**
+# **2.**
+Extract The Zip And Place it somewhere. You Can Rename It To Something Easy like ``GooseMod``
 
-Extract The Zip And Place it some where.
-You Can Rename It To Something Easy like ``GooseMod``
-
-**3.** 
+# **3.** 
 
 You Need To Enable **"Developer Mode"** On Chrome
 
