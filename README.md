@@ -21,6 +21,8 @@ These are all the ones i know
 
 ## GooseMod Chrome Install
 
+**1.**
+
 First Thing To Do is to Download the Zip
 
 [This Repo](https://api.github.com/repos/TheRealGWJosh/GooseMod-chrome/zipball/master)
@@ -29,5 +31,23 @@ First Thing To Do is to Download the Zip
 
 **2.**
 
-Extract The Zip And Place it some where
+Extract The Zip And Place it some where.
 You Can Rename It To Something Easy like ``GooseMod``
+
+**3.** 
+
+You Need To Enable **"Developer Mode"** On Chrome
+
+![Chrome Image](https://raw.githubusercontent.com/TheRealGWJosh/GooseMod-chrome/master/images/Screenshot%202021-06-10%2011.51.50%20AM.png)
+
+Next You Need to Load a Unpacked Extension
+
+![Load Unpacked](https://raw.githubusercontent.com/TheRealGWJosh/GooseMod-chrome/master/images/Screenshot%202021-06-10%2011.53.51%20AM.png)
+
+Last Find The "GooseMod Folder or The Folder You Renamed"
+
+![Files](https://raw.githubusercontent.com/TheRealGWJosh/GooseMod-chrome/master/images/Screenshot%202021-06-10%2011.56.54%20AM.png)
+
+**4.**
+
+Reload Discord
