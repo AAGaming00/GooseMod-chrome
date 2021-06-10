@@ -48,6 +48,6 @@ Last Find The "GooseMod Folder or The Folder You Renamed"
 
 ![Files](https://raw.githubusercontent.com/TheRealGWJosh/GooseMod-chrome/master/images/Screenshot%202021-06-10%2011.56.54%20AM.png)
 
-**4.**
-
-Reload Discord
+# **4.**
+Reload Discord After That Your Discord Should Look Like This
+![Discord](https://raw.githubusercontent.com/TheRealGWJosh/GooseMod-chrome/master/images/Screenshot%202021-06-10%2012.04.06%20PM.png)
