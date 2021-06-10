@@ -9,7 +9,7 @@ Just a Heads Up If You Want To Use The Dev Version of GooseMod Then Install Thes
 # Custom Repos
 **Quick Note: I Don't Recommend Every Using Every Custom Repo Only Use Repos You Trust!**
 
-List of Repos i Trust
+List of Repos **It'sJustJosh#2812** Trust
 
 ``https://hax4dazy.github.io/Goosemod-Module-Repo/dist/usrbg.json``
 
@@ -20,3 +20,6 @@ List of Repos i Trust
 These are all the ones i know
 
 ## GooseMod Chrome Install
+
+First Thing To Do is to Download the Zip
+[This Repo](https://api.github.com/repos/TheRealGWJosh/GooseMod-chrome/zipball/master)
