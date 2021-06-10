@@ -22,4 +22,12 @@ These are all the ones i know
 ## GooseMod Chrome Install
 
 First Thing To Do is to Download the Zip
+
 [This Repo](https://api.github.com/repos/TheRealGWJosh/GooseMod-chrome/zipball/master)
+
+[AAGaming00's Repo](https://api.github.com/repos/AAGaming00/GooseMod-chrome/zipball/master)
+
+**2.**
+
+Extract The Zip And Place it some where
+You Can Rename It To Something Easy like ``GooseMod``
