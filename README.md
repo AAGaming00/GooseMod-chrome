@@ -1,4 +1,16 @@
-# Note 
+# This is Dead
+Just a Heads Uo This Repo is Dead
+
+## Why?
+Well GooseMod Finaly Made There Own Extension.
+Wanna Use It? Here Ya Go.
+Chromium-based: https://chrome.google.com/webstore/detail/goosemod-for-web/clgkdcccmbjmjdbdgcigpocfkkjeaeld
+Firefox: https://addons.mozilla.org/addon/goosemod-for-web/
+
+Enjoy
+
+
+## Note 
 Just a Heads Up If You Want To Use The Dev Version of GooseMod Then Install These
 
 [Allow CORS: Access-Control-Allow-origin](https://chrome.google.com/webstore/detail/allow-cors-access-control/lhobafahddgcelffkeicbaginigeejlf)
