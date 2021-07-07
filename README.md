@@ -1,5 +1,5 @@
 # This is Dead
-Just a Heads Uo This Repo is Dead
+Just a Heads Up This Repo is Dead.
 
 ## Why?
 Well GooseMod Finaly Made There Own Extension.
